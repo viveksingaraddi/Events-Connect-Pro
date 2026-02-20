@@ -40,6 +40,7 @@ const App = () => (
               <Route path="/post-job" element={<PostJob />} />
               <Route path="/my-applications" element={<MyApplications />} />
               <Route path="/about" element={<About />} />
+              <Route path="/hire-workers" element={<AuthoriserLogin />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </BrowserRouter>
