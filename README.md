@@ -1,33 +1,56 @@
 # EventConnect
 
-EventConnect is a web platform that connects catering services and event contractors with students and part-time workers who want to earn daily wages by helping in weddings, parties, and functions.
+## Find Event Jobs & Hire Catering Workers
 
-## Problem
+EventConnect is a platform where catering services can hire temporary workers and students/job seekers can find nearby daily wage event jobs.
 
-Catering services often struggle to find workers at the last moment for events.
-At the same time, students and job seekers want flexible part-time earning opportunities.
+### Live Demo
 
-EventConnect solves this by providing a simple platform where:
+https://events-connect-pro.vercel.app/
 
-* Caterers can post jobs
-* Workers can apply instantly
+---
+
+## Screenshots
+
+(Add 3 screenshots here — Home, Worker Login, Post Job page)
+
+---
 
 ## Features
 
-* Separate login for Workers and Authorisers
-* Job posting system for catering services
-* Worker application system
-* Dashboard to manage applications
-* Real-time job availability
-* Mobile responsive UI
+* Worker authentication
+* Recruiter authentication
+* Post jobs
+* Apply to jobs
+* Dashboard
+* Application tracking
+
+---
 
 ## Tech Stack
 
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* shadcn UI
+Frontend: React + CSS
+Backend: Node.js + Express
+Database: MongoDB
+Authentication: JWT
+Hosting: Vercel
+
+---
+
+## Why I Built This
+
+In my area, catering contractors struggle to find last-minute workers and students struggle to find short-term jobs.
+EventConnect solves this real-world problem.
+
+---
+
+## Future Improvements
+
+* Payment integration
+* Location-based job filtering
+* Notifications
+* Admin dashboard
+
 
 ## Local Setup
 
@@ -54,13 +77,6 @@ npm run dev
 ```
 http://localhost:5173
 ```
-
-## Future Improvements
-
-* Location-based job matching
-* WhatsApp notifications
-* Payment integration
-* Worker rating system
 
 ## Author
 
