@@ -1,8 +1,8 @@
-# EventConnect
+# GigMitra
 
 ## Find Event Jobs & Hire Catering Workers
 
-EventConnect is a platform where catering services can hire temporary workers and students/job seekers can find nearby daily wage event jobs.
+GigMitra is a platform where catering services can hire temporary workers and students/job seekers can find nearby daily wage event jobs.
 
 ### Live Demo
 
@@ -18,12 +18,12 @@ https://events-connect-pro.vercel.app/
 
 ## Features
 
-* Worker authentication
-* Recruiter authentication
-* Post jobs
-* Apply to jobs
-* Dashboard
-* Application tracking
+- Worker authentication
+- Recruiter authentication
+- Post jobs
+- Apply to jobs
+- Dashboard
+- Application tracking
 
 ---
 
@@ -46,11 +46,10 @@ EventConnect solves this real-world problem.
 
 ## Future Improvements
 
-* Payment integration
-* Location-based job filtering
-* Notifications
-* Admin dashboard
-
+- Payment integration
+- Location-based job filtering
+- Notifications
+- Admin dashboard
 
 ## Local Setup
 
