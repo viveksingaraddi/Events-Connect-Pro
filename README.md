@@ -6,7 +6,7 @@ GigMitra is a platform where catering services can hire temporary workers and st
 
 ### Live Demo
 
-https://events-connect-pro.vercel.app/
+https://gigmithra.vercel.app/
 
 ---
 
