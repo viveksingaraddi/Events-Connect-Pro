@@ -42,7 +42,7 @@ export default function AuthoriserLogin() {
               <Users className="w-5 h-5 text-secondary-foreground" />
             </div>
             <span className="text-xl font-display font-bold text-foreground">
-              Event<span className="text-primary">Work</span>
+              Gig<span className="text-primary">Mithra</span>
             </span>
           </Link>
 

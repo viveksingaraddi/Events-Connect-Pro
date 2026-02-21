@@ -94,7 +94,7 @@ export default function WorkerSignup() {
               <Briefcase className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-xl font-display font-bold text-foreground">
-              Event<span className="text-primary">Work</span>
+              Gig<span className="text-primary">Mithra</span>
             </span>
           </Link>
 
