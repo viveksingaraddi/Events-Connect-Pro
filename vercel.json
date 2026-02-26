@@ -1,19 +1,9 @@
 {
-  "routes": [
+  "redirects": [
     {
-      "src": "/sitemap.xml",
-      "dest": "/sitemap.xml"
-    },
-    {
-      "src": "/robots.txt",
-      "dest": "/robots.txt"
-    },
-    {
-      "handle": "filesystem"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "https://gigmithra.vercel.app/$1",
+      "permanent": true
     }
   ]
 }
