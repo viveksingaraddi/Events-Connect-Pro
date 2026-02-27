@@ -1,9 +1,5 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://gigmithra.vercel.app/$1",
-      "permanent": true
-    }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
   ]
 }
