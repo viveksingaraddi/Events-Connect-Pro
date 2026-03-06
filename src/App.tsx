@@ -18,6 +18,7 @@ import PostJob from "./pages/PostJob";
 import MyApplications from "./pages/MyApplications";
 import About from "./pages/About";
 import NotFound from "./pages/NotFound";
+import Founder from "./pages/Founder";
 
 const queryClient = new QueryClient();
 
@@ -41,6 +42,7 @@ const App = () => (
               <Route path="/my-applications" element={<MyApplications />} />
               <Route path="/about" element={<About />} />
               <Route path="/hire-workers" element={<AuthoriserLogin />} />
+              <Route path="/founder" element={<Founder />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </BrowserRouter>

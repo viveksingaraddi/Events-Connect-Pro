@@ -83,11 +83,13 @@ export default function Footer() {
               </div>
               <div className="flex items-start gap-3 text-secondary-foreground/70">
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0" />
-                <span>Mumbai, Maharashtra, India</span>
+                <span>Bangaluru, Karnataka, India</span>
               </div>
             </div>
           </div>
         </div>
+
+        <a href="/founder">Founder</a>
 
         <div className="border-t border-white/10 mt-12 pt-8 text-center text-secondary-foreground/50">
           <p>© 2026 EventWork. All rights reserved.</p>

@@ -21,4 +21,9 @@
     <priority>0.7</priority>
   </url>
 
+  <url>
+  <loc>https://gigmithra.vercel.app/founder</loc>
+  <priority>0.7</priority>
+  </url>
+
 </urlset>
