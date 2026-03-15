@@ -12,7 +12,9 @@ https://gigmithra.vercel.app/
 
 ## Screenshots
 
-(Add 3 screenshots here — Home, Worker Login, Post Job page)
+![App Screenshot](screenshots/dashboard.png)
+![App Screenshot](screenshots/home.png)
+![App Screenshot](screenshots/login.png)
 
 ---
 
