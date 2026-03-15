@@ -1,8 +1,39 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 
 const Founder = () => {
   return (
     <div style={{padding:"40px", maxWidth:"1000px", margin:"auto"}}>
+
+      <Helmet>
+<title>Vivek Singaraddi – Founder of Gigmithra</title>
+
+<meta
+  name="description"
+  content="Vivek Singaraddi is the founder of Gigmithra, a platform connecting event organizers with reliable workers."
+/>
+
+<script type="application/ld+json">
+{`
+{
+ "@context": "https://schema.org",
+ "@type": "Person",
+ "name": "Vivek Singaraddi",
+ "jobTitle": "Founder",
+ "image": "https://gigmithra.vercel.app/founder.jpg",
+ "worksFor": {
+   "@type": "Organization",
+   "name": "Gigmithra"
+ },
+ "url": "https://gigmithra.vercel.app/founder",
+ "sameAs": [
+   "https://github.com/viveksingaraddi",
+   "https://www.linkedin.com/in/vivek-singaraddi-65653a384/"
+ ]
+}
+`}
+</script>
+</Helmet>
 
       {/* Hero Section */}
       <div style={{display:"flex", alignItems:"center", gap:"30px", flexWrap:"wrap"}}>
