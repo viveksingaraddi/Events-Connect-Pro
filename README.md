@@ -42,7 +42,7 @@ Hosting: Vercel
 ## Why I Built This
 
 In my area, catering contractors struggle to find last-minute workers and students struggle to find short-term jobs.
-EventConnect solves this real-world problem.
+Gigmithra solves this real-world problem.
 
 ---
 
@@ -58,7 +58,7 @@ EventConnect solves this real-world problem.
 1. Clone the repository
 
 ```
-git clone https://github.com/YOURUSERNAME/event-connect-pro.git
+git clone https://github.com/YOURUSERNAME/gigmithra.git
 ```
 
 2. Install dependencies
