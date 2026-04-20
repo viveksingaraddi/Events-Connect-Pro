@@ -29,7 +29,7 @@ export default function Footer() {
               <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-primary transition-colors">
                 <Instagram className="w-5 h-5" />
               </a>
-              <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-primary transition-colors">
+              <a href="https://www.linkedin.com/company/gigmithra/?viewAsMember=true" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-primary transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
             </div>
@@ -75,7 +75,7 @@ export default function Footer() {
             <div className="flex flex-col gap-4">
               <div className="flex items-center gap-3 text-secondary-foreground/70">
                 <Mail className="w-5 h-5 text-primary" />
-                <span>support@eventwork.in</span>
+                <span>gigmithra.connect@gmail.com</span>
               </div>
               <div className="flex items-center gap-3 text-secondary-foreground/70">
                 <Phone className="w-5 h-5 text-primary" />
@@ -88,8 +88,6 @@ export default function Footer() {
             </div>
           </div>
         </div>
-
-        <a href="/founder">Founder</a>
 
         <div className="border-t border-white/10 mt-12 pt-8 text-center text-secondary-foreground/50">
           <p>© 2026 EventWork. All rights reserved.</p>

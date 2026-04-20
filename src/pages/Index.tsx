@@ -12,7 +12,7 @@ const Index = () => {
   <a href="/worker-signup">Worker Signup</a> | 
   <a href="/authoriser-login">Hire Workers</a> | 
   <a href="/post-job">Post a Job</a> | 
-  <a href="/about">About GigMitra</a>
+  <a href="/about">About GigMithra</a>
 </div>
     </div>
   );

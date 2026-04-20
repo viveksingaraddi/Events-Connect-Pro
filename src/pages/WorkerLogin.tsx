@@ -44,7 +44,7 @@ export default function WorkerLogin() {
               <Briefcase className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-xl font-display font-bold text-foreground">
-              Gig<span className="text-primary">Mitra</span>
+              Gig<span className="text-primary">Mithra</span>
             </span>
           </Link>
 

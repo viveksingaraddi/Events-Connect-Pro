@@ -1,8 +1,8 @@
-# GigMitra
+# GigMithra
 
 ## Find Event Jobs & Hire Catering Workers
 
-GigMitra is a platform where catering services can hire temporary workers and students/job seekers can find nearby daily wage event jobs.
+GigMithra is a platform where catering services can hire temporary workers and students/job seekers can find nearby daily wage event jobs.
 
 ### Live Demo
 
